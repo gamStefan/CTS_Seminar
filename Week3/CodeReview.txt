@@ -10,4 +10,7 @@ Stage 1.Naming conventions
 
 - remove the hard-coded values aka "magic-values"
 
-- validate your 
+- validate your input values
+
+-replace the if-then-else check for the productType with switch
+
